@@ -8,8 +8,9 @@
 - crate 发布新版本后,如果 demo 有更新,则记录更新日志以及简要笔记
   
 # Demo 列表
-- [sqlx-demo](./sqlx-demo/README.md) SQLx 数据库链接操作库，非 ORM
-- [systemstat-demo](./systemstat-demo/README.md) systemstat 获取系统信息，比如 cpu，内存，磁盘，网络等.
+- [sqlx-demo](./sqlx-demo/) SQLx 数据库链接操作库，非 ORM
+- [systemstat-demo](./systemstat-demo/) systemstat 获取系统信息，比如 cpu，内存，磁盘，网络等.
+- [async-process-demo](./async-process-demo/) async-process 支持 async 的子程序库,很方便的创建子程序并且获取输出以及控制输入.
 
 # License
 - 文档:CC BY-NC
