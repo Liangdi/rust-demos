@@ -20,6 +20,7 @@
 
 ### 网络协议
 - [icmp-demo](./cyber-school/icmp-demo) 使用 pnet 实现简单的 ping 功能
+- [syn-flood-demo](./cyber-school/syn-flood-demo) 使用 pnet 实现简单的 SYN Flood DDoS 功能
 
 # License
 - 文档:CC BY-NC
